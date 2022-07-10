@@ -1,0 +1,288 @@
+[[log4cplus]]
+arch = "aarch64"
+git-tree-sha1 = "9fdd828c712d82de442501897bebd6581576115c"
+os = "macos"
+
+    [[log4cplus.download]]
+    sha256 = "0f882554168f59924dd1c744cace641859329c894499d54c07cff0030d362d68"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.aarch64-apple-darwin.tar.gz"
+[[log4cplus]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2e04b4550089a1a3358dffc1682d173fe14fc1dc"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "3b667e573951461539e923171cb7bd75a060164c6631d14e4dca634d751ce68f"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.aarch64-linux-gnu-cxx03.tar.gz"
+[[log4cplus]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "236e0cb5e2a64b52dc6a71922b8f581e6e0f80d7"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "fbaa9974f27eec458f8369e2f3054b3e7a78d53f619054770388dc0e82293216"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.aarch64-linux-gnu-cxx11.tar.gz"
+[[log4cplus]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d80b4223aaf78437d52f35276e941c39f5e7ddce"
+libc = "musl"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "67722881c5b1e83354c36c43dd0665cde03e503f70d9c5561a40f48bff5859b7"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.aarch64-linux-musl-cxx03.tar.gz"
+[[log4cplus]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e16bd21f2fc0ecf96dc17085a95d5cabeb6cf57"
+libc = "musl"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "c1ab4a88663234ff8f2f19c65495a3c8731d135578a1a9ac8a350e117ceed14d"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.aarch64-linux-musl-cxx11.tar.gz"
+[[log4cplus]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "997dadd3f0b9a9018ffa0f6ca616926473e6f32e"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "22cff18d748e54f29ec7662f5a0b905fb0bf90dd8eb815cbc9e72546f57d2c57"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[log4cplus]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e3c9e7582c5ba7d78e76f8fe0ed737e1ad267db7"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "fc1a855379c8e1d1cd7f4d78d2926ce7ee94ceb9b767d580e5c011e39ee86305"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[log4cplus]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "59255662a4a75f5a28fb945fcb1ed37d5bfc1387"
+libc = "musl"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "12f974444430d3e1ceac0e1310117eaa1c5ec17bdd841d833314455c0a20517a"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[log4cplus]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "32e403634e42ea28ff84a3cf2e6b336c8625d652"
+libc = "musl"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "ed8eecdc1188cf22a050106f63aacb6edc45b51d71d089f3ecf057d76bbc075b"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[log4cplus]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48067bed606ded7a4384f81155d14d1336d53f70"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "6fdf3473f30e1c473d785aa4601578e16ef9fd882dc35ee5a7a6a53bc373a8f2"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[log4cplus]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a1879201060027acfb0ea58402e138f5db20bfb"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "e0075efa54cf16b9e45cd456401d5cf267f85278aae191d955bfe7d325cdab58"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[log4cplus]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a9614fc5a0aac8408f6e8012f4b9b1d27123e3bb"
+libc = "musl"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "5173b46b66b40a273635db1418c09020acd793658f64e57ccf998a525f545463"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[log4cplus]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ca2f5036cb08dfbce363c5491fae320e2ce9db21"
+libc = "musl"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "20650c8b510aa0f3af5ea9e2392a61fd92ec4df29b5c27c6583405984565f9f5"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[log4cplus]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ab77139a020e2c512e35a8fd47c8507249d47b6"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "2696b870ede736c1e2a43499af4b265e38c24e693f7922520be510b288a7bea6"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.i686-linux-gnu-cxx03.tar.gz"
+[[log4cplus]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3fe0f7973c7412ce477703875761c6415d512571"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "47522ff316d944dcf467f3eafb5d78632b55c89782b7f1ffe3093e11f4f4db70"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.i686-linux-gnu-cxx11.tar.gz"
+[[log4cplus]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b319a0151a0734d5d926456c229c3c34c2db373d"
+libc = "musl"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "32e9712aeddc6a0419056fe885dfc0a6824717536a1c4e761a12cd7cc9a09284"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.i686-linux-musl-cxx03.tar.gz"
+[[log4cplus]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac1bc438fc4f26f02940f8a6df5e10104d1c449a"
+libc = "musl"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "384bfdb8c68d7dbc0a59367b1854c62f44dbc54e7196719b8ade4a964700be06"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.i686-linux-musl-cxx11.tar.gz"
+[[log4cplus]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e603bfdcd1917bf9b8dcd8fbf5d736cc6ae34285"
+os = "windows"
+
+    [[log4cplus.download]]
+    sha256 = "1f2cc316fd0e3a9c42d27e55de21beada8d43427afc4f87f38888135350fc797"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.i686-w64-mingw32-cxx03.tar.gz"
+[[log4cplus]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7008c0dec38820ce58c74e4ef3d250d00a270e9c"
+os = "windows"
+
+    [[log4cplus.download]]
+    sha256 = "7336a4d51530cd86bc0ea5bf8fbeb60abb7b65af747c06553d499dd551b7475e"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.i686-w64-mingw32-cxx11.tar.gz"
+[[log4cplus]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cd77d4ef54cd4c02338cb1caaefbaedce8dd2022"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "75fd503923c6ad41522ceb74a561bfb98ed98a26dccd4197ac96570676dff6df"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[log4cplus]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "431a8ee5dbbf8da1e7894ac0851c36123e06f2b1"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "99debbd74c1874d8089808ec796be2d52211c898608241f9c1cc507a4c2fe95f"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[log4cplus]]
+arch = "x86_64"
+git-tree-sha1 = "f5b5624e6848ab0685806baac487a569b3ab1920"
+os = "macos"
+
+    [[log4cplus.download]]
+    sha256 = "72d75b46419111f6c1172ec93477e238afae69a252a8d885c56229bb4c9054a2"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.x86_64-apple-darwin.tar.gz"
+[[log4cplus]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e24d0851fd3a0f82da6419a2b1eb34b8396bd10"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "351db55b8436b85120d91dd4426f0ab346c7128da19eafbfee4f5a4a9b91dfbb"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.x86_64-linux-gnu-cxx03.tar.gz"
+[[log4cplus]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c7a947de36ceaf32c7e44db92080df54ce32a257"
+libc = "glibc"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "7fe0e025eaa10bffaf46bf483961a1e33d49ecef6f74fdfe51d571b4e7c92fd9"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.x86_64-linux-gnu-cxx11.tar.gz"
+[[log4cplus]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "472a2d97668b4bff24d77fffa1c6dd8736119b97"
+libc = "musl"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "3606010a931e8dca1f369c12ac7ae7ab8cd3983768e7232b9dcc9003b7dbed50"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.x86_64-linux-musl-cxx03.tar.gz"
+[[log4cplus]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2fad8d61ad2ac90332b9153ae4bd15abfe36191b"
+libc = "musl"
+os = "linux"
+
+    [[log4cplus.download]]
+    sha256 = "e03753f698aae471ac5d6875a374afa2048033fa1fa9b4dd0652daa34d225b32"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.x86_64-linux-musl-cxx11.tar.gz"
+[[log4cplus]]
+arch = "x86_64"
+git-tree-sha1 = "207f839042c231fcaab19f0974a3a08c11348e72"
+os = "freebsd"
+
+    [[log4cplus.download]]
+    sha256 = "f7285591fb93df9a136e4b44fc5b1703a70ab668c39197c84e66db90edebd146"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.x86_64-unknown-freebsd.tar.gz"
+[[log4cplus]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "02eb43a2a0a7577e47a24c7694545165390d0354"
+os = "windows"
+
+    [[log4cplus.download]]
+    sha256 = "eb0860ee69c5728646ea579b17a6c2bbd27f92b7e99b42c8dd5544e47eaf6c87"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.x86_64-w64-mingw32-cxx03.tar.gz"
+[[log4cplus]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c3bbb2106e435a4740d4d85d369f3c65986620d0"
+os = "windows"
+
+    [[log4cplus.download]]
+    sha256 = "07eee9c2ea153ee023b0cc3492a49eee67730bd3ab43a0d6a1b9d3dd5b698fc5"
+    url = "https://github.com/JuliaBinaryWrappers/log4cplus_jll.jl/releases/download/log4cplus-v2.0.8+0/log4cplus.v2.0.8.x86_64-w64-mingw32-cxx11.tar.gz"
